@@ -1,0 +1,94 @@
+[
+    [
+        {
+            "id": 1,
+            "image": "https://s3-alpha-sig.figma.com/img/91b8/8940/14c8464b47399978beaef54c6ab1a1ce?Expires=1723420800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=jxaf00a8d7Zi~1B98LuU0p97AYzhhYqPFGNZlvJ2t6Aikk10uLN8DssQVuqjGTqXFcYLnf55~1G4EBCGlGqZCfFvMlE6AnSMLFQpi3ZHEIs-COaeWeJWoj4ILPWeSiHmkG4DqxCO07c9uJuLxcreqKNq53TX1WU~kvmZVMIS1IzU-6jZT44wpxPv0bplBjN9hb4zfTZcgXR-Mf37jYKHtsO6IpkCzoMlEuohzDeupVp26SjwqBArCPPOUHHFaOB4NIfVnX4EsjcIaXKo5d~AAC6CuR0X4P0SRLgMLcotg2kEtijzC8H13HUbpWBLN6jZ2lm5xX0ueCRi9qB4ONC11Q__",
+            "calories": "219.9 kcal",
+            "total_fat": "10.7g",
+            "protein": "7.9g",
+            "carbohydrate": "22.3g",
+            "cholesterol": "37.4mg",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        }
+    ],
+    [
+        {
+            "id": 1,
+            "image": "https://s3-alpha-sig.figma.com/img/e6f0/82c6/8c251dd7a6228b84e9d68e27ddf2d47d?Expires=1723420800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=hA9PKBvBXEBIuYhy3HQHLvWDEp5cQ6Z7v-I3sp1Hnw9JLcsfOEm-6QWJl0W0symWkZ06Obxmia9C0TIIwIvZh054lJ445KcHZY4iElfDPjoz92oCiT87TuI4i~TaEA9mv-HVkg3xegRzMXfT0w8DNF9RqS3xnOD8u-3totqKtg0BsnQvWXk7sASa5fTn4z5Oizr6xfFEjAjojMYHzsB-bxvMNuz2YyNWNFdbxVRlN-dCwH1US1wwIaE2f-J2ynSL3QiLDGoPyd8pUrqZqq1mDHRSz0J1VEE6TKYQjwR~tjJ8sfGsXG901X6tlppqxHlQ1W08adA2jx3sur3-Yq2lvA__",
+            "title": "Chicken Meatball with Creamy Chees...",
+            "cooked_by": "By Andreas Paula"
+        },
+        {
+            "id": 2,
+            "image": "https://s3-alpha-sig.figma.com/img/94d1/9365/107208024a316bdda445c55742452207?Expires=1723420800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=lEMP~WMDa1WkYvl9kmkAQzaO~No6Z0CDU4xK6kJtT5eWpj7ecgCJBkrl80ZD1ONoky0SF9gGxxvqVcj17YGeAOn4HaUi9ReDW8vU9-TaaUy-q~6WxC6AL7GD7J0G9g12p93QxvnFADtUUUksxbrVcTGTQl34GCJ0xlXr27iDls9-wNeXOVZTzvXUra4nOHloHJ-NfRgnFVofg5iUoFLDeOIiRKjkRV2WNIZ3xQtTAk~CsbatmYoQdQRLTHzO-9V~5YfNQVeg66De8YA1ooU43WQ8FPvIko5HXOi4VyBkZre1f8~fKhw41PmobfCcvf8Fv4Lq8CBQkxmixEMiwOPLBA__",
+            "title": "The Creamiest Creamy Chicken an...",
+            "cooked_by": "By Andreas Paula"
+        },
+        {
+            "id": 3,
+            "image": "https://s3-alpha-sig.figma.com/img/eeb4/75f7/e48878fc5d01496e4a42246aaa891c80?Expires=1723420800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=TD~cVWjOJGmBx4jjwBbuKLQJ7Busp5IsuMzwud0XLaeFsNSjTVrqUkeURtX0jkUCSe1YwzNPrSwO~tlSIX5F472Q9TcziJreZXuO-44l9AF43D8FbRtRz876xIU-IIg2NWMJRROtBU0dILvHNda4P15UM-uSOasPus-v~0hOjbY3cwq36Txy4AM2r4RYogKtKNYAdRV~FHKZY4aMA1Fre2lYJkRqRfrWu7JHo3gPBQagEp8N0JixhsHpJkNJrlqlPhh5H1CkvUnlltuZXc9RBZLvU6vop210Lb4~7p7v-GwXFYkt0hSVpQakBlp1Y~Tq6Cvc1YSXfS4uq5VLNQd2~A__",
+            "title": "The Best Easy One Pot Chicken and Rice",
+            "cooked_by": "By Andreas Paula"
+        }
+    ],
+    [
+        {
+            "id": 1,
+            "title": "1. Lorem ipsum dolor sit amet",
+            "content": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem."
+        },
+        {
+            "id": 2,
+            "image": "https://s3-alpha-sig.figma.com/img/a189/2470/3d3ad37c1b04115b9d86b67b82023a90?Expires=1723420800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=NP1meEZ~Rja~RtByHOgri-FeaXzP3YWNfq9Qkd7rNf4hc~eeUnubO5ZjpONUGefrlpd60m5EL7dUYMLtCjZ~dIzIIYTxEhBVtN2xGF3zx0KXKElxlf2B--0WSSoFIZnWyfqvsZBJ2a0FO3a14lMTgbLCyum6ujVaP8Hl9BK06DDKlOtfV6-qSyz83z1lJvFpb8R9XpbOiz74-CV1FQ3TZbu6BbbgRNYDahhL1ATJjo-yGFK6Nzj4-YxHojakUCNGdyE67E~JSF1tmOYH1BkiXfZjq4NnNzzVNPojynNMUNRvhKCEPdfK7FpXRTEluxt5dkGPVwdhUhtG2PvJ~j-amg__",
+            "content": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem."
+        },
+        {
+            "id": 3,
+            "title": "2. Lorem ipsum dolor sit amet",
+            "content": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem."
+        },
+        {
+            "id": 4,
+            "title": "3. Lorem ipsum dolor sit amet",
+            "content": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem."
+        }
+    ],
+    [
+        {
+            "id": 1,
+            "image": "https://s3-alpha-sig.figma.com/img/f699/5460/a4292927efc17ee09591649f7a1b7364?Expires=1723420800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=pN4fv2oDuJYRPIYkVoWt1YkPOyXczxjibsX3WZLt-R-wzY~Tte80Wa3sNRb~fhbbNcJtfd8kzbM5uMG6KS90-iUD292WktraAdBh93ae~oe-rYEH0QcVtYWr40kvQv7HCA7uZACBr--hhQrgXSWlemYRBsYhiKq02MDj53-hH1bKSAz-W--nq1tPnnwdDZ8811SEfl8p9EoX~9KGDIfnRcunU4WP3JvdZgJKq9KTGRF2Z1Ccdxt73xzVxMQhe4Gxc~32en2tItZStyDm4pl1dy5bRZCYNdhdpnykKOgU8VVLdmfDOuBP3oXoDxvmbVo2aU68Z48MK40mhoOCEkcFCA__",
+            "title": "Mixed Tropical Fruit Salad with Superfood Boosts",
+            "timer_img": "https://ibb.co/bdZm65J",
+            "timer_title": "30 Minutes",
+            "fork_knife_img": "https://ibb.co/xXbNRQj",
+            "fork_knife_title": "Healthy"
+        },
+        {
+            "id": 2,
+            "image": "https://s3-alpha-sig.figma.com/img/8513/aab8/ce4a091fb4a7a972e7f0ba7d653cedf2?Expires=1723420800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=HlEW7eC-f6LTGg4L92OqZW6hLYj2PKBVDF3-mUoIHfxKx8lqAEDotlqZXDdb-HOhpiMtXbQel1uSn7OUbGhojR73eojHQ62NU77j5z5vQt-s7eOz4Fp5B~3YYn8g77DanpEhQRXXTBssmOYo7Quq~PEAdz8JG2-8Ra-8W8QwdDKzqTQoOq~kBXNqTCe~pZYVWuPv5KjOwK4C9JnGhzSK3ImPYIOam9mPxA2DE8o83E5dT0rjhdrqVQ2UtFIqPp2IadmpzAUHKWernmfPaCKv~2YOxZU2NB-bIfFkO~AMEUz0ir~R-EYwKQYGuLM9LBcHhvZQ28IVHvlY05ZA385-VQ__",
+            "title": "Big and Juicy Wagyu Beef Cheeseburger",
+            "timer_img": "https://ibb.co/bdZm65J",
+            "timer_title": "30 Minutes",
+            "fork_knife_img": "https://ibb.co/xXbNRQj",
+            "fork_knife_title": "Western"
+        },
+        {
+            "id": 3,
+            "image": "https://s3-alpha-sig.figma.com/img/91b8/8940/14c8464b47399978beaef54c6ab1a1ce?Expires=1723420800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=jxaf00a8d7Zi~1B98LuU0p97AYzhhYqPFGNZlvJ2t6Aikk10uLN8DssQVuqjGTqXFcYLnf55~1G4EBCGlGqZCfFvMlE6AnSMLFQpi3ZHEIs-COaeWeJWoj4ILPWeSiHmkG4DqxCO07c9uJuLxcreqKNq53TX1WU~kvmZVMIS1IzU-6jZT44wpxPv0bplBjN9hb4zfTZcgXR-Mf37jYKHtsO6IpkCzoMlEuohzDeupVp26SjwqBArCPPOUHHFaOB4NIfVnX4EsjcIaXKo5d~AAC6CuR0X4P0SRLgMLcotg2kEtijzC8H13HUbpWBLN6jZ2lm5xX0ueCRi9qB4ONC11Q__",
+            "title": "Healthy Japanese Fried Rice with Asparagus",
+            "timer_img": "https://ibb.co/bdZm65J",
+            "timer_title": "30 Minutes",
+            "fork_knife_img": "https://ibb.co/xXbNRQj",
+            "fork_knife_title": "Healthy"
+        },
+        {
+            "id": 4,
+            "image": "https://s3-alpha-sig.figma.com/img/9bf6/c3de/19b579cff4368a1bfcba9e2f306d4c99?Expires=1723420800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=DnZJwZ1z6Y7W6W~fapf6ZebUG00WpMComRg9tAotRfr5Mg7mV~lSWiqeYR04MrgwULqB2coyF99cIUAwznhW4kZEH7Pm7TB3UaYknbI5bdtENXfY1ah2Dox2KTjlOP~flMngrEyAI8LPMyBEUYfYdVz6Wo9~paEnLxebVt3ok-2gq8NbcUuEkEkSak94-3pEZ7gaZ9DnAvuoVtZGOkARmDd54Sh~Zej3yBzeKIjOqzfUT4PjzolEDfd8sE~CCJ~UQa3qW1pXX4y6tmvmltuoWGKa4XeLOYwQVYlR3kKhp6pcHz-uIcj-13JtUPH6pBH05CE5-2iXBp2vfw6od6MCGA__",
+            "title": "Cauliflower Walnut Vegetarian Taco Meat",
+            "timer_img": "https://ibb.co/bdZm65J",
+            "timer_title": "30 Minutes",
+            "fork_knife_img": "https://ibb.co/xXbNRQj",
+            "fork_knife_title": "Western"
+        }
+    ]
+]
